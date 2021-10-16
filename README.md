@@ -1,2 +1,2 @@
 # Image/Video Processing and Compression
-Labs that involved image-processing. Coded in MATLAB.
+Labs that involved image/video processing and compression. Coded in MATLAB.
